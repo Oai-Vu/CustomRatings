@@ -11,6 +11,7 @@
 		B25ED7542C3D2145008B163E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B25ED7532C3D2145008B163E /* ContentView.swift */; };
 		B25ED7562C3D2145008B163E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B25ED7552C3D2145008B163E /* Assets.xcassets */; };
 		B25ED7592C3D2145008B163E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B25ED7582C3D2145008B163E /* Preview Assets.xcassets */; };
+		B25ED7622C3D23BF008B163E /* RatingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B25ED7612C3D23BF008B163E /* RatingsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		B25ED7532C3D2145008B163E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		B25ED7552C3D2145008B163E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B25ED7582C3D2145008B163E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B25ED7612C3D23BF008B163E /* RatingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				B25ED7512C3D2145008B163E /* CustomRatingsApp.swift */,
 				B25ED7532C3D2145008B163E /* ContentView.swift */,
+				B25ED7612C3D23BF008B163E /* RatingsView.swift */,
 				B25ED7552C3D2145008B163E /* Assets.xcassets */,
 				B25ED7572C3D2145008B163E /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B25ED7542C3D2145008B163E /* ContentView.swift in Sources */,
+				B25ED7622C3D23BF008B163E /* RatingsView.swift in Sources */,
 				B25ED7522C3D2145008B163E /* CustomRatingsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
